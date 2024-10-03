@@ -1,1 +1,7 @@
-theme:minima
+title: "Мой блог"
+author: "Ваше имя"
+description: "Описание вашего блога"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
