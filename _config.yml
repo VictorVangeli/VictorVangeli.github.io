@@ -1,7 +1,6 @@
 title: "Мой блог"
 author: "Ваше имя"
 description: "Описание вашего блога"
-theme: minima
+remote_theme: pages-themes/merlot@v0.2.0
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+- jekyll-remote-theme
